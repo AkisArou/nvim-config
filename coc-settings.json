@@ -1,0 +1,7 @@
+{
+  "tsserver.log": "verbose",
+  "tsserver.pluginPaths": [
+    "/home/akisarou/coc-nx/node_modules/@monodon/typescript-nx-imports-plugin/"
+  ],
+  "workspace.rootPatterns": [".git"]
+}
