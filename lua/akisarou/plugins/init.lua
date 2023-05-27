@@ -11,3 +11,4 @@ require("akisarou.plugins.lualine")
 require("akisarou.plugins.wilder")
 require("akisarou.plugins.coc")
 require("akisarou.plugins.nvim-tree")
+-- TODO add rest
